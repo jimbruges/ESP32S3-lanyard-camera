@@ -5,3 +5,5 @@
  
 Inferencing script based upon the Seeed examples combined with the inferencing example here: https://github.com/Mjrovai/XIAO-ESP32S3-Sense
 
+![PXL_20230613_115507920](https://github.com/jimbruges/ESP32S3-lanyard-camera/assets/117161381/3d19483a-841a-428e-a69e-a339f53476e3)
+![PXL_20230613_115455026](https://github.com/jimbruges/ESP32S3-lanyard-camera/assets/117161381/26a95b61-727c-4523-98ad-06e7fc7521d4)
